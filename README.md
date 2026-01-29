@@ -13,15 +13,14 @@
 
 - 🤝 I’m looking for help with **Machine Learning and AI project optimization**
 
-- 📝 I regularly write articles on [Learning in public on GitHub](Learning in public on GitHub)
-
+- 📝 I regularly write articles on [Learning in public on GitHub]
 - 💬 Ask me about **Python | Data Science | DSA**
 
 - 📫 How to reach me **abhivadiyala@gmail.com**
 
-- 📄 Know about my experiences [Internship and project experience](Internship and project experience)
+- 📄 Know about my experiences [Internship and project experience]
 
-- ⚡ Fun fact **I turn coffee into code ☕**
+- ⚡ Fun fact: **I turn coffee into code ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

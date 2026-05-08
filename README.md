@@ -9,11 +9,6 @@ Passionate about building scalable backend systems, REST APIs, and real-time app
 Currently focused on improving problem-solving skills through daily LeetCode practice and backend development projects.
 </p>
 
----
-
-
-
----
 
 ## 🚀 About Me
 

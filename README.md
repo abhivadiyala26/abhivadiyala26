@@ -48,7 +48,7 @@ Currently focused on improving problem-solving skills through daily LeetCode pra
 
 ## 📌 Featured Projects
 
-### 🔹 CodeSphere – Real-Time Developer Collaboration Platform
+### 🔹 DevConnect – Real-Time Developer Collaboration Platform
 - Developed a full-stack real-time collaboration platform using **Spring Boot, React, WebSocket, and MySQL**
 - Implemented **JWT Authentication**, live messaging, online status tracking, and persistent chat storage
 - Built scalable REST APIs and responsive frontend architecture for seamless real-time communication
@@ -88,10 +88,10 @@ Currently focused on improving problem-solving skills through daily LeetCode pra
   - Arrays
   - Strings
   - Linked Lists
+  - Binary Search
   - Trees
   - Recursion
   - Bit Manipulation
-  - Dynamic Programming
   - OOP Concepts
 
 ---

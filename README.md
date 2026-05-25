@@ -26,7 +26,7 @@ Currently focused on improving problem-solving skills through daily LeetCode pra
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,c,mysql" />
 </p>
 
 ### ⚙️ Backend Development
